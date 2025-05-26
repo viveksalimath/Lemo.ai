@@ -256,7 +256,6 @@ The focus is not only limited to the activity you see on GitHub but also a lot o
 
 [MIT License](https://github.com/leon-ai/leon/blob/develop/LICENSE.md)
 
-Copyright (c) 2019-present, Louis Grenard <louis@getleon.ai>
 
 ## Cheers!
 
