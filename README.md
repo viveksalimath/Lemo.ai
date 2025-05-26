@@ -256,6 +256,8 @@ The focus is not only limited to the activity you see on GitHub but also a lot o
 
 [MIT License](https://github.com/leon-ai/leon/blob/develop/LICENSE.md)
 
+ NOTE GO THROUGH THE ZIP FILE TO RUN THE PROJECT
+ 
 
 ## Cheers!
 
